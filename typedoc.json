@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/ColeccionFunkos.ts",
+  ],
+  "out": "./docs"
+}
