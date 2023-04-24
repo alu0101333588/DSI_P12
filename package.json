@@ -2,10 +2,10 @@
   "name": "dsi_p12",
   "version": "1.0.0",
   "description": "Práctica Modificación 2",
-  "main": ".prueba.js",
+  "main": ".funkoExpressServer.js",
   "type": "module",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/prueba.js\"",
+    "start": "tsc-watch --onSuccess \"node dist/funkoExpressServer.js\"",
     "doc": "typedoc",
     "test": "mocha",
     "coverage": "c8 npm test && c8 report --reporter=lcov"
